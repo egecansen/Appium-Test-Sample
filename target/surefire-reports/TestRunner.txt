@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 12.482 s <<< FAILURE! - in TestRunner
+Trendyol devam(Trendyol)  Time elapsed: 10.264 s  <<< ERROR!
+java.lang.RuntimeException: 
+[1;33morg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'MacBook-Pro-3.local', ip: '192.168.0.13'[0m
+

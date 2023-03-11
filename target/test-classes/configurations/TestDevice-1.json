@@ -1,0 +1,7 @@
+{
+  "platformName": "Android",
+  "platformVersion": "13",
+  "deviceName": "TestDevice-1",
+  "automationName": "uiautomator2",
+  "app": "/Users/egecan/Documents/GitHub/Appium-Test-Sample/src/test/resources/apps/sampleGetir.apk"
+}
