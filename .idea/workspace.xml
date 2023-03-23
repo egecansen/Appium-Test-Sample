@@ -4,7 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3ee74c3-2b19-48f1-b4f4-f82d302e233c" name="Changes" comment="" />
+    <list default="true" id="f3ee74c3-2b19-48f1-b4f4-f82d302e233c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BasketScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CosmeticScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LandingScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/PerfumeScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ProductScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/StartupScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/component/CountryRows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/component/MainCategoryRows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/component/SortAndFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/BasketScreenSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/CozmeticScreenSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/LandingScreenSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/PerfumeScreenSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/ProductScreenSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/StartupScreenSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LandingPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/Demo.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/Demo.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/TrendyolSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/apps/sampleGetir.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/configurations/TestDevice-1.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configurations/TestDevice-1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/LandingPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/Cucumber.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/Cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestRunner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/apps/sampleGetir.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/configurations/TestDevice-1.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/configurations/TestDevice-1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/CommonSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/CommonSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/TrendyolSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +56,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -33,18 +77,22 @@
     </option>
   </component>
   <component name="ProjectId" id="2MsRpTFOABljUC5aiD1SBTEgM5N" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/egecan/Documents/GitHub/Appium-Test-Sample/src/test/resources/apps",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/egecan/Documents/GitHub/Appium-Test-Sample/src/test/resources/apps&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/resources/apps" />
@@ -60,7 +108,29 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Cucumber Java.Scenario: Trendyol1">
+    <configuration name="Scenario: Trendyol defult download action" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Demo.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Appium-Test-Sample" />
+      <option name="NAME_FILTER" value="^Trendyol defult download action$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Trendyol defult download action$&quot;" />
+      <shortenClasspath name="NONE" />
+      <option name="SUGGESTED_NAME" value="Scenario: Trendyol defult download action" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+        <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Scenario: Trendyol devam" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Demo.feature" />
@@ -83,6 +153,28 @@
         <option name="MakeProject" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scenario: Trendyol1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Demo.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Appium-Test-Sample" />
+      <option name="NAME_FILTER" value="^Trendyol1$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Trendyol1$&quot;" />
+      <shortenClasspath name="NONE" />
+      <option name="SUGGESTED_NAME" value="Scenario: Trendyol1" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+        <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
       <shortenClasspath name="NONE" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
@@ -93,6 +185,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Scenario: Trendyol1" />
+        <item itemvalue="Cucumber Java.Scenario: Trendyol defult download action" />
         <item itemvalue="Cucumber Java.Scenario: Trendyol devam" />
       </list>
     </recent_temporary>

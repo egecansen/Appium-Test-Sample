@@ -1,7 +1,12 @@
 {
   "platformName": "Android",
-  "platformVersion": "13",
-  "deviceName": "TestDevice-1",
+  "platformVersion": "6",
+  "deviceName": "samsung SM-J500F",
   "automationName": "uiautomator2",
-  "app": "/Users/egecan/Documents/GitHub/Appium-Test-Sample/src/test/resources/apps/sampleGetir.apk"
+  "adbExecTimeout": 180000,
+  "appWaitDuration": 180000,
+  "androidInstallTimeout": 180000,
+  "uiautomator2ServerLaunchTimeout": 180000,
+  "uiautomator2ServerInstallTimeout": 180000,
+  "app": "/Users/egecan/Documents/GitHub/Appium-Test-Sample/src/test/resources/apps/trendyol.apk"
 }

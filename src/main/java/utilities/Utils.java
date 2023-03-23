@@ -195,7 +195,7 @@ public abstract class Utils extends MobileUtilities {
 
         if (scroll)
             centerElement(element);
-        log.new Info("Clicking the element named: " + element.getText());
+        log.new Info("Clicking the specified element");
         while (System.currentTimeMillis() - startTime < duration) {
             try {
                 element.click();
