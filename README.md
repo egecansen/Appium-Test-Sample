@@ -26,5 +26,5 @@ This is a sample framework for testing mobile applications using Appium and [Mob
 
 ## Usage
 
-- You can run the tests using your preferred IDE or by running the Maven command `mvn test`.
+- You can run the tests using your preferred IDE or by running the Maven command `mvn clean test`.
 
