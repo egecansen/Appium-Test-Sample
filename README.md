@@ -18,7 +18,7 @@ This is a sample framework for testing mobile applications using Appium and [Mob
     mvn clean install
     ```
 
-4. Run the tests.
+4. Run tests.
 
 ## Configuration
 
